@@ -1,2 +1,762 @@
-2022-07-07 23:18:54,333 - BaseTest -INFO - Test
-2022-07-07 23:20:46,973 - BaseTest -INFO - Test
+2022-07-07 23:55:11,663 - pages.BasePage -INFO - Return Page Title:Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-07 23:55:11,687 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-07 23:55:11,698 - pages.BasePage -INFO - Getting Element Value:Register For Demo
+2022-07-07 23:55:11,714 - pages.BasePage -INFO - Located Element: First Name *
+2022-07-07 23:55:11,759 - pages.BasePage -INFO - Sending Keys To Element:Tester01
+2022-07-07 23:55:11,778 - pages.BasePage -INFO - Located Element: Last Name *
+2022-07-07 23:55:11,826 - pages.BasePage -INFO - Sending Keys To Element:user1
+2022-07-07 23:55:11,850 - pages.BasePage -INFO - Located Element: Male
+2022-07-07 23:55:11,883 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:11,901 - pages.BasePage -INFO - Located Element: Street Address
+2022-07-07 23:55:11,953 - pages.BasePage -INFO - Sending Keys To Element:Here There
+2022-07-07 23:55:11,974 - pages.BasePage -INFO - Located Element: Apt, Suite, Bldg. (optional)
+2022-07-07 23:55:12,016 - pages.BasePage -INFO - Sending Keys To Element:Diz
+2022-07-07 23:55:12,034 - pages.BasePage -INFO - Located Element: City
+2022-07-07 23:55:12,079 - pages.BasePage -INFO - Sending Keys To Element:17B
+2022-07-07 23:55:12,114 - pages.BasePage -INFO - Located Element: State / Province / Region
+2022-07-07 23:55:12,169 - pages.BasePage -INFO - Sending Keys To Element:City Center
+2022-07-07 23:55:12,185 - pages.BasePage -INFO - Located Element: Postal / Zip Code
+2022-07-07 23:55:12,233 - pages.BasePage -INFO - Sending Keys To Element:80188
+2022-07-07 23:55:12,256 - pages.BasePage -INFO - Located Element: Country
+2022-07-07 23:55:12,316 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-07 23:55:12,337 - pages.BasePage -INFO - Located Element: Email *
+2022-07-07 23:55:12,395 - pages.BasePage -INFO - Sending Keys To Element:a1b1c1@xyz.com
+2022-07-07 23:55:12,414 - pages.BasePage -INFO - Located Element: Date of Demo
+2022-07-07 23:55:12,497 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:12,515 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,527 - pages.BasePage -INFO - Getting Element Value:July
+2022-07-07 23:55:12,547 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,560 - pages.BasePage -INFO - Getting Element Value:2022
+2022-07-07 23:55:12,578 - pages.BasePage -INFO - Located Element: Next
+2022-07-07 23:55:12,619 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:12,630 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,651 - pages.BasePage -INFO - Getting Element Value:August
+2022-07-07 23:55:12,666 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,677 - pages.BasePage -INFO - Getting Element Value:2022
+2022-07-07 23:55:12,689 - pages.BasePage -INFO - Located Element: Next
+2022-07-07 23:55:12,720 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:12,733 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,744 - pages.BasePage -INFO - Getting Element Value:September
+2022-07-07 23:55:12,757 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,767 - pages.BasePage -INFO - Getting Element Value:2022
+2022-07-07 23:55:12,779 - pages.BasePage -INFO - Located Element: Next
+2022-07-07 23:55:12,812 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:12,825 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,837 - pages.BasePage -INFO - Getting Element Value:October
+2022-07-07 23:55:12,850 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,863 - pages.BasePage -INFO - Getting Element Value:2022
+2022-07-07 23:55:12,878 - pages.BasePage -INFO - Located Element: Next
+2022-07-07 23:55:12,908 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:12,922 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,933 - pages.BasePage -INFO - Getting Element Value:November
+2022-07-07 23:55:12,947 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:12,957 - pages.BasePage -INFO - Getting Element Value:2022
+2022-07-07 23:55:12,970 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-07 23:55:13,267 - pages.BasePage -INFO - Located Element: HH
+2022-07-07 23:55:13,342 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-07 23:55:13,359 - pages.BasePage -INFO - Located Element: MM
+2022-07-07 23:55:13,400 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-07 23:55:13,410 - pages.BasePage -INFO - Located Element: Mobile Number
+2022-07-07 23:55:13,459 - pages.BasePage -INFO - Sending Keys To Element:123456789
+2022-07-07 23:55:13,475 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (e17ea738c3075d372b5a554f4c007771)] -> css selector: input[type='checkbox']]]
+2022-07-07 23:55:13,650 - pages.BasePage -INFO - Located Element: Enter your query
+2022-07-07 23:55:13,698 - pages.BasePage -INFO - Sending Keys To Element:Hello Im Qa Tester
+2022-07-07 23:55:13,720 - pages.BasePage -INFO - Located Element: 
+2022-07-07 23:55:13,763 - pages.BasePage -INFO - Sending Keys To Element:78
+2022-07-07 23:55:13,782 - pages.BasePage -INFO - Located Element: Submit
+2022-07-07 23:55:15,409 - pages.BasePage -INFO - Clicking On Element
+2022-07-07 23:55:15,422 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-07 23:55:15,431 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:46,900 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:06:46,927 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:06:46,937 - pages.RegistrationPage -INFO - Return Page Header:By.cssSelector: .vfb-legend>h3
+2022-07-08 00:06:46,957 - pages.BasePage -INFO - Located Element: First Name *
+2022-07-08 00:06:47,002 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 00:06:47,018 - pages.BasePage -INFO - Located Element: Last Name *
+2022-07-08 00:06:47,071 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 00:06:47,072 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 00:06:47,096 - pages.BasePage -INFO - Located Element: Male
+2022-07-08 00:06:47,136 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 00:06:47,152 - pages.BasePage -INFO - Located Element: Street Address
+2022-07-08 00:06:47,236 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 00:06:47,263 - pages.BasePage -INFO - Located Element: Apt, Suite, Bldg. (optional)
+2022-07-08 00:06:47,301 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 00:06:47,317 - pages.BasePage -INFO - Located Element: City
+2022-07-08 00:06:47,373 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 00:06:47,394 - pages.BasePage -INFO - Located Element: State / Province / Region
+2022-07-08 00:06:47,448 - pages.RegistrationPage -INFO - Set Region To: By.id: vfb-13-state
+2022-07-08 00:06:47,469 - pages.BasePage -INFO - Located Element: Postal / Zip Code
+2022-07-08 00:06:47,511 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 00:06:47,527 - pages.BasePage -INFO - Located Element: Country
+2022-07-08 00:06:47,580 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 00:06:47,580 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 00:06:47,597 - pages.BasePage -INFO - Located Element: Email *
+2022-07-08 00:06:47,659 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 00:06:47,663 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 00:06:47,682 - pages.BasePage -INFO - Located Element: Date of Demo
+2022-07-08 00:06:47,776 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:47,808 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:47,835 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:06:47,889 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:47,921 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:47,933 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:06:47,994 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,015 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,036 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:06:48,088 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,110 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,132 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:06:48,173 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,199 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,220 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 00:06:48,494 - pages.BasePage -INFO - Located Element: HH
+2022-07-08 00:06:48,569 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 00:06:48,585 - pages.BasePage -INFO - Located Element: MM
+2022-07-08 00:06:48,625 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 00:06:48,625 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 00:06:48,629 - pages.BasePage -INFO - Located Element: Mobile Number
+2022-07-08 00:06:48,686 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 00:06:48,700 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (22b11805f4525ba64f31266a2a02e294)] -> css selector: input[type='checkbox']]]
+2022-07-08 00:06:48,700 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@10823d72
+2022-07-08 00:06:48,873 - pages.BasePage -INFO - Located Element: Enter your query
+2022-07-08 00:06:48,920 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 00:06:48,938 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:48,983 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 00:06:49,000 - pages.BasePage -INFO - Located Element: Submit
+2022-07-08 00:06:50,569 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 00:06:50,582 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:06:50,592 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:06:50,592 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:07:34,710 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:07:34,732 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:07:34,747 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:07:34,766 - pages.BasePage -INFO - Located Element: First Name *
+2022-07-08 00:07:34,812 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 00:07:34,829 - pages.BasePage -INFO - Located Element: Last Name *
+2022-07-08 00:07:34,877 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 00:07:34,879 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 00:07:34,897 - pages.BasePage -INFO - Located Element: Male
+2022-07-08 00:07:34,929 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 00:07:34,951 - pages.BasePage -INFO - Located Element: Street Address
+2022-07-08 00:07:35,027 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 00:07:35,051 - pages.BasePage -INFO - Located Element: Apt, Suite, Bldg. (optional)
+2022-07-08 00:07:35,088 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 00:07:35,106 - pages.BasePage -INFO - Located Element: City
+2022-07-08 00:07:35,155 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 00:07:35,183 - pages.BasePage -INFO - Located Element: State / Province / Region
+2022-07-08 00:07:35,240 - pages.RegistrationPage -INFO - Set Region To: By.id: vfb-13-state
+2022-07-08 00:07:35,258 - pages.BasePage -INFO - Located Element: Postal / Zip Code
+2022-07-08 00:07:35,300 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 00:07:35,318 - pages.BasePage -INFO - Located Element: Country
+2022-07-08 00:07:35,372 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 00:07:35,373 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 00:07:35,390 - pages.BasePage -INFO - Located Element: Email *
+2022-07-08 00:07:35,445 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 00:07:35,448 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 00:07:35,465 - pages.BasePage -INFO - Located Element: Date of Demo
+2022-07-08 00:07:35,546 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,577 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,609 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:07:35,670 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,696 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,710 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:07:35,762 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,787 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,809 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:07:35,856 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,887 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,909 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:07:35,954 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:35,978 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:36,003 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 00:07:36,284 - pages.BasePage -INFO - Located Element: HH
+2022-07-08 00:07:36,360 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 00:07:36,376 - pages.BasePage -INFO - Located Element: MM
+2022-07-08 00:07:36,417 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 00:07:36,417 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 00:07:36,421 - pages.BasePage -INFO - Located Element: Mobile Number
+2022-07-08 00:07:36,479 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 00:07:36,492 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (44c41f7f03ab09ddb61344fced5cee5b)] -> css selector: input[type='checkbox']]]
+2022-07-08 00:07:36,492 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@14b0e127
+2022-07-08 00:07:36,672 - pages.BasePage -INFO - Located Element: Enter your query
+2022-07-08 00:07:36,719 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 00:07:36,739 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:36,782 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 00:07:36,801 - pages.BasePage -INFO - Located Element: Submit
+2022-07-08 00:07:38,297 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 00:07:38,311 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:07:38,320 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:07:38,320 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:30:46,838 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 00:30:46,838 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 00:30:46,966 - BaseTest -INFO - Maximize Window
+2022-07-08 00:30:49,412 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:30:49,412 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:30:49,428 - RegistrationPageTest -INFO - Validate Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy,Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:30:49,451 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:30:49,462 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:30:49,473 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:30:49,474 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:30:49,474 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo,Register For Demo
+2022-07-08 00:30:49,490 - pages.BasePage -INFO - Located Element: First Name *
+2022-07-08 00:30:49,543 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 00:30:49,559 - pages.BasePage -INFO - Located Element: Last Name *
+2022-07-08 00:30:49,610 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 00:30:49,614 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 00:30:49,632 - pages.BasePage -INFO - Located Element: Male
+2022-07-08 00:30:49,667 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 00:30:49,701 - pages.BasePage -INFO - Located Element: Street Address
+2022-07-08 00:30:49,763 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 00:30:49,784 - pages.BasePage -INFO - Located Element: Apt, Suite, Bldg. (optional)
+2022-07-08 00:30:49,823 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 00:30:49,848 - pages.BasePage -INFO - Located Element: City
+2022-07-08 00:30:49,896 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 00:30:49,916 - pages.BasePage -INFO - Located Element: State / Province / Region
+2022-07-08 00:30:49,972 - pages.RegistrationPage -INFO - Set Region To: By.id: vfb-13-state
+2022-07-08 00:30:49,989 - pages.BasePage -INFO - Located Element: Postal / Zip Code
+2022-07-08 00:30:50,031 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 00:30:50,049 - pages.BasePage -INFO - Located Element: Country
+2022-07-08 00:30:50,102 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 00:30:50,104 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 00:30:50,125 - pages.BasePage -INFO - Located Element: Email *
+2022-07-08 00:30:50,177 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 00:30:50,178 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 00:30:50,195 - pages.BasePage -INFO - Located Element: Date of Demo
+2022-07-08 00:30:50,286 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,314 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,346 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:30:50,400 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,426 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,446 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:30:50,494 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,518 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,541 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:30:50,584 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,609 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,630 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:30:50,670 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,690 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:50,711 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 00:30:50,994 - pages.BasePage -INFO - Located Element: HH
+2022-07-08 00:30:51,061 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 00:30:51,078 - pages.BasePage -INFO - Located Element: MM
+2022-07-08 00:30:51,117 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 00:30:51,117 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 00:30:51,120 - pages.BasePage -INFO - Located Element: Mobile Number
+2022-07-08 00:30:51,174 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 00:30:51,189 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (0b988f24d21c31f79ee2c17cd06039f1)] -> css selector: input[type='checkbox']]]
+2022-07-08 00:30:51,190 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@3078cac
+2022-07-08 00:30:51,366 - pages.BasePage -INFO - Located Element: Enter your query
+2022-07-08 00:30:51,412 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 00:30:51,432 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:51,476 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 00:30:51,493 - pages.BasePage -INFO - Located Element: Submit
+2022-07-08 00:30:53,148 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 00:30:53,169 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:30:53,198 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:53,200 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:30:53,215 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:30:53,297 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:30:53,309 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:30:53,309 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 00:30:53,415 - BaseTest -INFO - Quit Driver..
+2022-07-08 00:35:08,567 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 00:35:08,572 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 00:35:08,695 - BaseTest -INFO - Maximize Window
+2022-07-08 00:35:11,477 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:35:11,480 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:35:11,491 - RegistrationPageTest -INFO - Validate Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:35:11,607 - BaseTest -INFO - Quit Driver..
+2022-07-08 00:39:27,663 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 00:39:27,663 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 00:39:27,781 - BaseTest -INFO - Maximize Window
+2022-07-08 00:39:30,514 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:39:30,522 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:39:30,522 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:39:30,538 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:39:30,557 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:39:30,562 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:39:30,562 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:39:30,562 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 00:39:30,593 - pages.BasePage -INFO - Located Element: First Name *
+2022-07-08 00:39:30,642 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 00:39:30,660 - pages.BasePage -INFO - Located Element: Last Name *
+2022-07-08 00:39:30,692 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 00:39:30,707 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 00:39:30,723 - pages.BasePage -INFO - Located Element: Male
+2022-07-08 00:39:30,760 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 00:39:30,782 - pages.BasePage -INFO - Located Element: Street Address
+2022-07-08 00:39:30,834 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 00:39:30,854 - pages.BasePage -INFO - Located Element: Apt, Suite, Bldg. (optional)
+2022-07-08 00:39:30,898 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 00:39:30,916 - pages.BasePage -INFO - Located Element: City
+2022-07-08 00:39:30,961 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 00:39:30,979 - pages.BasePage -INFO - Located Element: State / Province / Region
+2022-07-08 00:39:31,028 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 00:39:31,046 - pages.BasePage -INFO - Located Element: Postal / Zip Code
+2022-07-08 00:39:31,088 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 00:39:31,107 - pages.BasePage -INFO - Located Element: Country
+2022-07-08 00:39:31,162 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 00:39:31,163 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 00:39:31,189 - pages.BasePage -INFO - Located Element: Email *
+2022-07-08 00:39:31,239 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 00:39:31,242 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 00:39:31,268 - pages.BasePage -INFO - Located Element: Date of Demo
+2022-07-08 00:39:31,366 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,408 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,445 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:39:31,507 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,535 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,558 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:39:31,598 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,621 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,647 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:39:31,691 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,715 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,738 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:39:31,782 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,805 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:31,825 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 00:39:32,117 - pages.BasePage -INFO - Located Element: HH
+2022-07-08 00:39:32,197 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 00:39:32,216 - pages.BasePage -INFO - Located Element: MM
+2022-07-08 00:39:32,255 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 00:39:32,255 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 00:39:32,258 - pages.BasePage -INFO - Located Element: Mobile Number
+2022-07-08 00:39:32,317 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 00:39:32,331 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (f9b8d12aded0195a2e456ce8982e31dc)] -> css selector: input[type='checkbox']]]
+2022-07-08 00:39:32,331 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@7cea0110
+2022-07-08 00:39:32,505 - pages.BasePage -INFO - Located Element: Enter your query
+2022-07-08 00:39:32,553 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 00:39:32,570 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:32,614 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 00:39:32,632 - pages.BasePage -INFO - Located Element: Submit
+2022-07-08 00:39:34,145 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 00:39:34,159 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:39:34,161 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:34,176 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:39:34,176 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:39:34,195 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:39:34,206 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:39:34,206 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 00:39:34,315 - BaseTest -INFO - Quit Driver..
+2022-07-08 00:40:51,900 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 00:40:51,916 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 00:40:52,046 - BaseTest -INFO - Maximize Window
+2022-07-08 00:40:54,421 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:40:54,423 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:40:54,450 - pages.BasePage -INFO - Located Element: Register For Demo
+2022-07-08 00:40:54,453 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:40:54,453 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 00:40:54,481 - pages.BasePage -INFO - Located Element: First Name *
+2022-07-08 00:40:54,534 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 00:40:54,541 - pages.BasePage -INFO - Located Element: Last Name *
+2022-07-08 00:40:54,606 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 00:40:54,608 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 00:40:54,629 - pages.BasePage -INFO - Located Element: Male
+2022-07-08 00:40:54,666 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 00:40:54,711 - pages.BasePage -INFO - Located Element: Street Address
+2022-07-08 00:40:54,789 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 00:40:54,812 - pages.BasePage -INFO - Located Element: Apt, Suite, Bldg. (optional)
+2022-07-08 00:40:54,856 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 00:40:54,883 - pages.BasePage -INFO - Located Element: City
+2022-07-08 00:40:54,924 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 00:40:54,942 - pages.BasePage -INFO - Located Element: State / Province / Region
+2022-07-08 00:40:54,995 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 00:40:55,009 - pages.BasePage -INFO - Located Element: Postal / Zip Code
+2022-07-08 00:40:55,050 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 00:40:55,067 - pages.BasePage -INFO - Located Element: Country
+2022-07-08 00:40:55,120 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 00:40:55,121 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 00:40:55,139 - pages.BasePage -INFO - Located Element: Email *
+2022-07-08 00:40:55,190 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 00:40:55,192 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 00:40:55,209 - pages.BasePage -INFO - Located Element: Date of Demo
+2022-07-08 00:40:55,296 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,330 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,364 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:40:55,416 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,446 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,457 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:40:55,521 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,542 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,563 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:40:55,618 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,640 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,662 - pages.BasePage -INFO - Located Element: Next
+2022-07-08 00:40:55,706 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,731 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:55,757 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 00:40:56,039 - pages.BasePage -INFO - Located Element: HH
+2022-07-08 00:40:56,110 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 00:40:56,126 - pages.BasePage -INFO - Located Element: MM
+2022-07-08 00:40:56,167 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 00:40:56,167 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 00:40:56,170 - pages.BasePage -INFO - Located Element: Mobile Number
+2022-07-08 00:40:56,228 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 00:40:56,243 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (b97979c3aa50ba1e0b2765989c439320)] -> css selector: input[type='checkbox']]]
+2022-07-08 00:40:56,243 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@636bbbbb
+2022-07-08 00:40:56,426 - pages.BasePage -INFO - Located Element: Enter your query
+2022-07-08 00:40:56,470 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 00:40:56,492 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:56,534 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 00:40:56,552 - pages.BasePage -INFO - Located Element: Submit
+2022-07-08 00:40:58,008 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 00:40:58,022 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:40:58,032 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:58,034 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:40:58,049 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:40:58,057 - pages.BasePage -INFO - Located Element: 
+2022-07-08 00:40:58,058 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:40:58,058 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 00:40:58,140 - BaseTest -INFO - Quit Driver..
+2022-07-08 00:42:18,248 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 00:42:18,248 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 00:42:18,366 - BaseTest -INFO - Maximize Window
+2022-07-08 00:42:21,305 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:42:21,310 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 00:42:21,315 - pages.BasePage -INFO - Element Located: Register For Demo
+2022-07-08 00:42:21,340 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 00:42:21,341 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 00:42:21,358 - pages.BasePage -INFO - Element Located: First Name *
+2022-07-08 00:42:21,406 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 00:42:21,422 - pages.BasePage -INFO - Element Located: Last Name *
+2022-07-08 00:42:21,471 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 00:42:21,473 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 00:42:21,492 - pages.BasePage -INFO - Element Located: Male
+2022-07-08 00:42:21,528 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 00:42:21,547 - pages.BasePage -INFO - Element Located: Street Address
+2022-07-08 00:42:21,599 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 00:42:21,619 - pages.BasePage -INFO - Element Located: Apt, Suite, Bldg. (optional)
+2022-07-08 00:42:21,664 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 00:42:21,684 - pages.BasePage -INFO - Element Located: City
+2022-07-08 00:42:21,729 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 00:42:21,749 - pages.BasePage -INFO - Element Located: State / Province / Region
+2022-07-08 00:42:21,801 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 00:42:21,820 - pages.BasePage -INFO - Element Located: Postal / Zip Code
+2022-07-08 00:42:21,867 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 00:42:21,889 - pages.BasePage -INFO - Element Located: Country
+2022-07-08 00:42:21,946 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 00:42:21,947 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 00:42:21,966 - pages.BasePage -INFO - Element Located: Email *
+2022-07-08 00:42:22,022 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 00:42:22,023 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 00:42:22,041 - pages.BasePage -INFO - Element Located: Date of Demo
+2022-07-08 00:42:22,116 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,147 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,177 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 00:42:22,222 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,258 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,278 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 00:42:22,326 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,349 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,373 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 00:42:22,418 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,450 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,473 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 00:42:22,516 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,539 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:22,564 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 00:42:22,849 - pages.BasePage -INFO - Element Located: HH
+2022-07-08 00:42:22,921 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 00:42:22,939 - pages.BasePage -INFO - Element Located: MM
+2022-07-08 00:42:22,980 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 00:42:22,980 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 00:42:22,984 - pages.BasePage -INFO - Element Located: Mobile Number
+2022-07-08 00:42:23,039 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 00:42:23,054 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (ff65f4fb3ad3bb952dfde911d523ab51)] -> css selector: input[type='checkbox']]]
+2022-07-08 00:42:23,054 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@2b34e38c
+2022-07-08 00:42:23,229 - pages.BasePage -INFO - Element Located: Enter your query
+2022-07-08 00:42:23,277 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 00:42:23,298 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:23,341 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 00:42:23,360 - pages.BasePage -INFO - Element Located: Submit
+2022-07-08 00:42:24,912 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 00:42:24,929 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:42:24,929 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:24,945 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:42:24,961 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 00:42:24,971 - pages.BasePage -INFO - Element Located: 
+2022-07-08 00:42:24,972 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 00:42:24,972 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 00:42:25,050 - BaseTest -INFO - Quit Driver..
+2022-07-08 01:19:32,075 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 01:19:32,091 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 01:19:32,205 - BaseTest -INFO - Maximize Window
+2022-07-08 01:19:37,766 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 01:19:37,772 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 01:19:37,800 - pages.BasePage -INFO - Element Located: Register For Demo
+2022-07-08 01:19:37,814 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 01:19:37,815 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 01:19:37,823 - pages.BasePage -INFO - Element Located: First Name *
+2022-07-08 01:19:37,890 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 01:19:37,908 - pages.BasePage -INFO - Element Located: Last Name *
+2022-07-08 01:19:37,956 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 01:19:37,958 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 01:19:37,965 - pages.BasePage -INFO - Element Located: Male
+2022-07-08 01:19:38,021 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 01:19:38,056 - pages.BasePage -INFO - Element Located: Street Address
+2022-07-08 01:19:38,124 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 01:19:38,147 - pages.BasePage -INFO - Element Located: Apt, Suite, Bldg. (optional)
+2022-07-08 01:19:38,194 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 01:19:38,219 - pages.BasePage -INFO - Element Located: City
+2022-07-08 01:19:38,268 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 01:19:38,287 - pages.BasePage -INFO - Element Located: State / Province / Region
+2022-07-08 01:19:38,340 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 01:19:38,357 - pages.BasePage -INFO - Element Located: Postal / Zip Code
+2022-07-08 01:19:38,400 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 01:19:38,419 - pages.BasePage -INFO - Element Located: Country
+2022-07-08 01:19:38,478 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 01:19:38,478 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 01:19:38,495 - pages.BasePage -INFO - Element Located: Email *
+2022-07-08 01:19:38,562 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 01:19:38,564 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 01:19:38,581 - pages.BasePage -INFO - Element Located: Date of Demo
+2022-07-08 01:19:38,670 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:38,708 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:38,738 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:19:38,792 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:38,821 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:38,835 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:19:38,893 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:38,914 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:38,935 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:19:38,980 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:39,004 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:39,026 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:19:39,070 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:39,093 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:39,114 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 01:19:39,402 - pages.BasePage -INFO - Element Located: HH
+2022-07-08 01:19:39,475 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 01:19:39,493 - pages.BasePage -INFO - Element Located: MM
+2022-07-08 01:19:39,534 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 01:19:39,534 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 01:19:39,537 - pages.BasePage -INFO - Element Located: Mobile Number
+2022-07-08 01:19:39,595 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 01:19:39,607 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (8a678d422be2b981a540e4a14ed1ac8d)] -> css selector: input[type='checkbox']]]
+2022-07-08 01:19:39,607 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@4d41ba0f
+2022-07-08 01:19:39,785 - pages.BasePage -INFO - Element Located: Enter your query
+2022-07-08 01:19:39,834 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 01:19:39,853 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:39,896 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 01:19:39,916 - pages.BasePage -INFO - Element Located: Submit
+2022-07-08 01:19:41,372 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 01:19:41,385 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 01:19:41,394 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:41,409 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 01:19:41,415 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 01:19:41,420 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:19:41,435 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 01:19:41,436 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 01:19:41,569 - BaseTest -INFO - Quit Driver..
+2022-07-08 01:20:19,117 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 01:20:19,117 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 01:20:19,246 - BaseTest -INFO - Maximize Window
+2022-07-08 01:20:21,253 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 01:20:21,253 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 01:20:21,284 - pages.BasePage -INFO - Element Located: Register For Demo
+2022-07-08 01:20:21,284 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 01:20:21,284 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 01:20:21,307 - pages.BasePage -INFO - Element Located: First Name *
+2022-07-08 01:20:21,357 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 01:20:21,376 - pages.BasePage -INFO - Element Located: Last Name *
+2022-07-08 01:20:21,415 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 01:20:21,415 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 01:20:21,431 - pages.BasePage -INFO - Element Located: Male
+2022-07-08 01:20:21,478 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 01:20:21,498 - pages.BasePage -INFO - Element Located: Street Address
+2022-07-08 01:20:21,551 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 01:20:21,569 - pages.BasePage -INFO - Element Located: Apt, Suite, Bldg. (optional)
+2022-07-08 01:20:21,610 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 01:20:21,629 - pages.BasePage -INFO - Element Located: City
+2022-07-08 01:20:21,672 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 01:20:21,690 - pages.BasePage -INFO - Element Located: State / Province / Region
+2022-07-08 01:20:21,741 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 01:20:21,761 - pages.BasePage -INFO - Element Located: Postal / Zip Code
+2022-07-08 01:20:21,825 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 01:20:21,849 - pages.BasePage -INFO - Element Located: Country
+2022-07-08 01:20:21,903 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 01:20:21,903 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 01:20:21,928 - pages.BasePage -INFO - Element Located: Email *
+2022-07-08 01:20:21,997 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 01:20:21,999 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 01:20:22,017 - pages.BasePage -INFO - Element Located: Date of Demo
+2022-07-08 01:20:22,112 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,144 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,179 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:20:22,235 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,256 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,284 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:20:22,329 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,353 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,374 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:20:22,421 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,444 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,467 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:20:22,511 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,534 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:22,555 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 01:20:22,839 - pages.BasePage -INFO - Element Located: HH
+2022-07-08 01:20:22,911 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 01:20:22,927 - pages.BasePage -INFO - Element Located: MM
+2022-07-08 01:20:22,966 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 01:20:22,966 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 01:20:22,970 - pages.BasePage -INFO - Element Located: Mobile Number
+2022-07-08 01:20:23,027 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 01:20:23,039 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (fccf625be853d5b5754712fd571a0401)] -> css selector: input[type='checkbox']]]
+2022-07-08 01:20:23,039 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@25ad4f71
+2022-07-08 01:20:23,218 - pages.BasePage -INFO - Element Located: Enter your query
+2022-07-08 01:20:23,265 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 01:20:23,287 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:23,332 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 01:20:23,350 - pages.BasePage -INFO - Element Located: Submit
+2022-07-08 01:20:24,800 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 01:20:24,814 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 01:20:24,823 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:24,823 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 01:20:24,841 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 01:20:24,850 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:20:24,850 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 01:20:24,850 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 01:20:24,986 - BaseTest -INFO - Quit Driver..
+2022-07-08 01:34:07,018 - BaseTest -INFO - Set Page Load Time To: 15
+2022-07-08 01:34:07,033 - BaseTest -INFO - Set Implicit Time To:15
+2022-07-08 01:34:07,152 - BaseTest -INFO - Maximize Window
+2022-07-08 01:34:09,813 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 01:34:09,820 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 01:34:09,850 - pages.BasePage -INFO - Element Located: Register For Demo
+2022-07-08 01:34:09,852 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 01:34:09,852 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 01:34:09,868 - pages.BasePage -INFO - Element Located: First Name *
+2022-07-08 01:34:09,938 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 01:34:09,956 - pages.BasePage -INFO - Element Located: Last Name *
+2022-07-08 01:34:10,009 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 01:34:10,012 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 01:34:10,031 - pages.BasePage -INFO - Element Located: Male
+2022-07-08 01:34:10,082 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 01:34:10,103 - pages.BasePage -INFO - Element Located: Street Address
+2022-07-08 01:34:10,167 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 01:34:10,183 - pages.BasePage -INFO - Element Located: Apt, Suite, Bldg. (optional)
+2022-07-08 01:34:10,241 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 01:34:10,257 - pages.BasePage -INFO - Element Located: City
+2022-07-08 01:34:10,301 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 01:34:10,321 - pages.BasePage -INFO - Element Located: State / Province / Region
+2022-07-08 01:34:10,372 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 01:34:10,389 - pages.BasePage -INFO - Element Located: Postal / Zip Code
+2022-07-08 01:34:10,432 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 01:34:10,451 - pages.BasePage -INFO - Element Located: Country
+2022-07-08 01:34:10,517 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 01:34:10,518 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 01:34:10,537 - pages.BasePage -INFO - Element Located: Email *
+2022-07-08 01:34:10,586 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 01:34:10,588 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 01:34:10,605 - pages.BasePage -INFO - Element Located: Date of Demo
+2022-07-08 01:34:10,714 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:10,746 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:10,780 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:34:10,838 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:10,868 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:10,893 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:34:10,939 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:10,962 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:10,986 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:34:11,028 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:11,053 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:11,077 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 01:34:11,122 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:11,146 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:11,167 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 01:34:11,447 - pages.BasePage -INFO - Element Located: HH
+2022-07-08 01:34:11,513 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 01:34:11,528 - pages.BasePage -INFO - Element Located: MM
+2022-07-08 01:34:11,572 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 01:34:11,572 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 01:34:11,574 - pages.BasePage -INFO - Element Located: Mobile Number
+2022-07-08 01:34:11,636 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 01:34:11,649 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (34d06f63a48aaadacff96014eec4b23d)] -> css selector: input[type='checkbox']]]
+2022-07-08 01:34:11,650 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@b112b13
+2022-07-08 01:34:11,831 - pages.BasePage -INFO - Element Located: Enter your query
+2022-07-08 01:34:11,876 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 01:34:11,895 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:11,946 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 01:34:11,961 - pages.BasePage -INFO - Element Located: Submit
+2022-07-08 01:34:13,695 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 01:34:13,714 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 01:34:13,729 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:13,741 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 01:34:13,744 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 01:34:13,758 - pages.BasePage -INFO - Element Located: 
+2022-07-08 01:34:13,853 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 01:34:13,853 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 01:34:13,986 - BaseTest -INFO - Quit Driver..
+2022-07-08 02:06:40,234 - BaseTest -INFO - Set Page Load Time To: 20
+2022-07-08 02:06:40,238 - BaseTest -INFO - Set Implicit Time To:20
+2022-07-08 02:06:40,370 - BaseTest -INFO - Maximize Window
+2022-07-08 02:06:43,146 - pages.RegistrationPage -INFO - Return Page Title: Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 02:06:43,148 - RegistrationPageTest -INFO - Verify Page Title Equality Demo Site – Registration Form – NxtGen A.I Academy With Demo Site – Registration Form – NxtGen A.I Academy
+2022-07-08 02:06:43,172 - pages.BasePage -INFO - Element Located: Register For Demo
+2022-07-08 02:06:43,184 - pages.RegistrationPage -INFO - Return Page Header:Register For Demo
+2022-07-08 02:06:43,184 - RegistrationPageTest -INFO - Verify Page Header EqualityRegister For Demo With Register For Demo
+2022-07-08 02:06:43,202 - pages.BasePage -INFO - Element Located: First Name *
+2022-07-08 02:06:43,594 - pages.RegistrationPage -INFO - Set First Name To: Tester01
+2022-07-08 02:06:43,621 - pages.BasePage -INFO - Element Located: Last Name *
+2022-07-08 02:06:43,672 - pages.RegistrationPage -INFO - Set Last Name To: user1
+2022-07-08 02:06:43,672 - pages.RegistrationPage -INFO - Set Gender To: M
+2022-07-08 02:06:43,687 - pages.BasePage -INFO - Element Located: Male
+2022-07-08 02:06:43,726 - pages.RegistrationPage -INFO - Clicking On Male Radio Button
+2022-07-08 02:06:43,734 - pages.BasePage -INFO - Element Located: Street Address
+2022-07-08 02:06:43,803 - pages.RegistrationPage -INFO - Set Address To: Here There
+2022-07-08 02:06:43,824 - pages.BasePage -INFO - Element Located: Apt, Suite, Bldg. (optional)
+2022-07-08 02:06:43,869 - pages.RegistrationPage -INFO - Set Street Address To: Diz
+2022-07-08 02:06:43,888 - pages.BasePage -INFO - Element Located: City
+2022-07-08 02:06:43,932 - pages.RegistrationPage -INFO - Set Apartment To: 17B
+2022-07-08 02:06:43,974 - pages.BasePage -INFO - Element Located: State / Province / Region
+2022-07-08 02:06:44,048 - pages.RegistrationPage -INFO - Set Region To: City Center
+2022-07-08 02:06:44,069 - pages.BasePage -INFO - Element Located: Postal / Zip Code
+2022-07-08 02:06:44,136 - pages.RegistrationPage -INFO - Set ZipCode To: 80188
+2022-07-08 02:06:44,156 - pages.BasePage -INFO - Element Located: Country
+2022-07-08 02:06:44,219 - pages.BasePage -INFO - Select Item From Select DropDown:Israel
+2022-07-08 02:06:44,220 - pages.RegistrationPage -INFO - Set Country To: Israel
+2022-07-08 02:06:44,244 - pages.BasePage -INFO - Element Located: Email *
+2022-07-08 02:06:44,307 - pages.RegistrationPage -INFO - Set Email To: a1b1c1@xyz.com
+2022-07-08 02:06:44,309 - pages.RegistrationPage -INFO - Set Date To: 2022/m/d
+2022-07-08 02:06:44,324 - pages.BasePage -INFO - Element Located: Date of Demo
+2022-07-08 02:06:44,419 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,455 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,485 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 02:06:44,538 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,566 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,591 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 02:06:44,634 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,657 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,672 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 02:06:44,719 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,744 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,768 - pages.BasePage -INFO - Element Located: Next
+2022-07-08 02:06:44,809 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,833 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:44,854 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: .ui-datepicker-calendar>tbody>tr>td>a]]
+2022-07-08 02:06:45,136 - pages.BasePage -INFO - Element Located: HH
+2022-07-08 02:06:45,207 - pages.BasePage -INFO - Select Item From Select DropDown:11
+2022-07-08 02:06:45,222 - pages.BasePage -INFO - Element Located: MM
+2022-07-08 02:06:45,263 - pages.BasePage -INFO - Select Item From Select DropDown:15
+2022-07-08 02:06:45,263 - pages.RegistrationPage -INFO - Select Time To Contact To: 11:15
+2022-07-08 02:06:45,266 - pages.BasePage -INFO - Element Located: Mobile Number
+2022-07-08 02:06:45,326 - pages.RegistrationPage -INFO - Set Phone Number To: 123456789
+2022-07-08 02:06:45,340 - pages.BasePage -INFO - Located Element:[[[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: input[type='checkbox']], [[ChromeDriver: chrome on WINDOWS (3f1c7919153482a1c9c75c11e47166e4)] -> css selector: input[type='checkbox']]]
+2022-07-08 02:06:45,340 - pages.RegistrationPage -INFO - Select Courses: [Ljava.lang.String;@5527b211
+2022-07-08 02:06:45,517 - pages.BasePage -INFO - Element Located: Enter your query
+2022-07-08 02:06:45,567 - pages.RegistrationPage -INFO - Set Query Data To: Hello Im Qa Tester
+2022-07-08 02:06:45,585 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:45,628 - pages.RegistrationPage -INFO - Set Verification To: 78
+2022-07-08 02:06:45,646 - pages.BasePage -INFO - Element Located: Submit
+2022-07-08 02:06:47,269 - pages.RegistrationPage -INFO - Clicking on Submit Button
+2022-07-08 02:06:47,284 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 02:06:47,301 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:47,313 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 02:06:47,319 - pages.BasePage -INFO - Waiting For Element for: 15 Seconds
+2022-07-08 02:06:47,423 - pages.BasePage -INFO - Element Located: 
+2022-07-08 02:06:47,433 - pages.RegistrationPage -INFO - Return Registration Display Message Status:true
+2022-07-08 02:06:47,433 - RegistrationPageTest -INFO - Verify Registration Success Message Display Status:true
+2022-07-08 02:06:47,570 - BaseTest -INFO - Quit Driver..

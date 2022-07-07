@@ -1,25 +1,33 @@
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.RegistrationPage;
+import utilities.LoggerHelper;
 
 public class RegistrationPageTest extends BaseTest {
     RegistrationPage rg;
+    private Logger logger= LoggerHelper.getLogger(RegistrationPageTest.class);
     @BeforeMethod
     public void before(){
        rg=new RegistrationPage(driver);
     }
     @Test
-    public void TC_000_ValidatePageTitle(){
-        Assert.assertEquals(rg.getTitle(),"Demo Site – Registration Form – NxtGen A.I Academy");
+    public void TC_000_VERIFY_PAGE_TITLE(){
+        String title=rg.getTitle();
+        Assert.assertEquals(title,"Demo Site – Registration Form – NxtGen A.I Academy");
+        logger.info("Verify Page Title Equality "+title+" With "+"Demo Site – Registration Form – NxtGen A.I Academy");
     }
     @Test
-    public void TC_001_VALIDATE_PAGE_HEADER(){
-        Assert.assertEquals(rg.getPageHeader(),"Register For Demo");
+    public void TC_001_VERIFY_PAGE_HEADER(){
+        String header=rg.getPageHeader();
+        Assert.assertEquals(header,"Register For Demo");
+        logger.info("Verify Page Header Equality"+header+" With "+"Register For Demo");
     }
    @Test
     public void TC_002_SetFirstName() {
         rg.setFirstName("Tester01");
+
 
     }
     @Test
@@ -89,6 +97,7 @@ public class RegistrationPageTest extends BaseTest {
     @Test
     public void TC_019_VALIDATE_REGISTRATION_SUCCESS(){
         Assert.assertTrue(rg.isRegistrationSuccess());
+        logger.info("Verify Registration Success Message Display Status:"+rg.isRegistrationSuccess());
     }
 
 
